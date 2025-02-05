@@ -16,4 +16,4 @@
 |             |                          | Error catching                                                                                              | 🥅    |
 |             |                          | Fix typos                                                                                                   | ✏️    |
 | `revert`    | Reverts                  | Reverts a previous commit   
-| 'ew'        | Oh no...                 | Something bad happened :(                                                                                   | 💩    |
+| `ew`        | Oh no...                 | Something bad happened :(                                                                                   | 💩    |
