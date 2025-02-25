@@ -15,5 +15,6 @@
 |             |                          | Add on to previous feat commit                                                                              | 🚧    |
 |             |                          | Error catching                                                                                              | 🥅    |
 |             |                          | Fix typos                                                                                                   | ✏️     |
+|             |                          | Delete code or files                                                                                        | 🔥    |
 | `revert`    | Reverts                  | Reverts a previous commit   
 | `ew`        | Oh no...                 | Something bad happened :(                                                                                   | 💩    |
